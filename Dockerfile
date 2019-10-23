@@ -1,4 +1,4 @@
-FROM balenalib/armv7hf-debian
+FROM ubuntu:18.04
 
 LABEL version="1.0" 
 LABEL maintainer="Yogi Hardi <yogi.hardi@gmail.com>"
